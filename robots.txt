@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://overcastshapero-hash.github.io/scl-geo-test-20261104/sitemap.xml
